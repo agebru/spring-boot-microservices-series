@@ -1,6 +1,10 @@
 # spring-boot-microservices-series
 Code for SpringBoot MicroServices Blog Series
 
+Complete Tutorial:
+https://www.javacodegeeks.com/2018/03/microservices-part-3-spring-cloud-service-registry-and-discovery.html
+
+
 ## How to run?
 
 ### Build all modules:
